@@ -1,0 +1,1 @@
+Detailed local development setup for Android, backend, MongoDB and AI configuration.
